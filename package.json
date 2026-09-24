@@ -1,5 +1,5 @@
 {
-    "name": "@tongleem/tcad-sde",
+    "name": "@tongleen/tcad-sde",
     "version": "0.1.0",
     "description": "A TS package to generate Sentaurus SDE script.",
     "keywords": [
