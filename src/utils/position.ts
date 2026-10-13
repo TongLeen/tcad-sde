@@ -47,3 +47,5 @@ export class Position {
         return `(position ${this.x} ${this.y} ${this.z})`;
     }
 }
+
+export const position = (x: number, y: number) => new Position(x, y);

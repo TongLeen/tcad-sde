@@ -13,5 +13,6 @@
 // limitations under the License.
 
 import useSde from "./api2D/index";
+import { position } from "./utils/position";
 
-export { useSde };
+export { useSde, position };
